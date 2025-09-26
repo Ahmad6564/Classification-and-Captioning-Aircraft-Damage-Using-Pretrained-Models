@@ -258,9 +258,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Muhammad Ahmad**
-- GitHub: [@ccmuhammadahmad](https://github.com/ccmuhammadahmad)
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [@Ahmad6564](https://github.com/Ahmad6564)
+- Email: [ahmadkhalid6564@gmail.com]
+
 
 ## 🔮 Future Enhancements
 
