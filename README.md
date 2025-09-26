@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Muhammad Ahmad**
 - GitHub: [@Ahmad6564](https://github.com/Ahmad6564)
-- Email: [ahmadkhalid6564@gmail.com]
+- Email: ahmadkhalid6564@gmail.com
 
 
 ## 🔮 Future Enhancements
